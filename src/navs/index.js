@@ -2812,7 +2812,7 @@ export const docsMenu = {
                         },
                         {
                             name: 'GitHub',
-                            url: '/docs/libraries/github',
+                            url: '/docs/integrations/github',
                         },
                         {
                             name: 'Google Tag Manager',
